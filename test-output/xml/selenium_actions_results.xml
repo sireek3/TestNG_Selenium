@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Selenium_TestNG"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.984">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validate_Click_Functionality"
+                time="0.510"
+                classname="selenium_actions">
+            </testcase>
+            <testcase
+                name="validate_CleckBox_Functionality"
+                time="2.474"
+                classname="selenium_actions">
+            </testcase>
+</testsuite>

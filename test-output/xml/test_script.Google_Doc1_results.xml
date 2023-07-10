@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ford Google senario"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.781">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validate_google_page"
+                time="4.781"
+                classname="test_script.Google_Doc1">
+            </testcase>
+</testsuite>

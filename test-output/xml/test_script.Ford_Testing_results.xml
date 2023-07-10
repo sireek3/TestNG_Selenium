@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ford SignIn senario"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="9.202">
+    <properties></properties>
+
+
+
+            <testcase
+                name="ford_signin_validation"
+                time="9.202"
+                classname="test_script.Ford_Testing">
+            </testcase>
+</testsuite>
